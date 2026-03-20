@@ -8,6 +8,8 @@ Cơ Sở Ngôn Ngữ Học – Hỗ Trợ Xử Lý Ngôn Ngữ Tiếng Việt
 | 1   |   123000882     |Trần Trọng Khang|
 | 2   |                 |                |
 
+streamlit link: https://lachong-nlp-co-so-ngon-ngu-hoc-ehvn6ysxsehwtg8pxcnrtr.streamlit.app/
+
 ## Mô tả dự án
 
 Ứng dụng web Streamlit hỗ trợ xử lý ngôn ngữ tiếng Việt với các chức năng: tokenize (tách từ), POS tagging (gán nhãn từ loại), hiển thị kết quả trực quan với highlight màu, và export kết quả ra CSV.
